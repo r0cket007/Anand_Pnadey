@@ -1,5 +1,5 @@
 ### Hi, I'm Anand Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## short description👽
+## Little About Myself👽
 - 🌱 **I’m currently learning** - SpringBoot, RESTfull API
 - 💬 **Language** - C++, JAVA, Pyhton
 - 🥅 **FrameWork & Technology** - SpringBoot, Jupyter Notebook, MySQL, MongoDB
