@@ -5,7 +5,6 @@
 - 🥅 **FrameWork & Technology** - SpringBoot, Jupyter Notebook, MySQL, MongoDB
 - ⚡ **Hobbies** - Coding, Reading, Swimming 
 - 📕 **Curriculum Subjects** - DBMS, OS, SEPM, Theory of Computation, HCI, FDS, PSOOP, COA, DSF
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravanv2&label=Profile%20views&color=0e75b6&style=flat" alt="ravanv2" /> </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0cket007)
 
 [![r0cket007's github stats](https://github-readme-stats.vercel.app/api?username=r0cket007&count_private=true&include_all_commits=true&theme=radical) ](https://google.com)
