@@ -7,7 +7,7 @@
 - 📕 **Curriculum Subjects** - DBMS, OS, SEPM, Theory of Computation, HCI, FDS, PSOOP, COA, DSF
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravanv2&label=Profile%20views&color=0e75b6&style=flat" alt="ravanv2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r0cket007&label=Profile%20views&color=0e75b6&style=flat" alt="r0cket007" /> </p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0cket007)
