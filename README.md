@@ -1,9 +1,9 @@
 ### Hi, I'm Anand Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Little About Myself👽
 - 🌱 **I’m currently learning** - SpringBoot, RESTfull API
-- 💬 **Language** - C++, JAVA, Python
-- 🥅 **FrameWork & Technology** - SpringBoot, Jupyter Notebook, MySQL, MongoDB
-- ⚡ **Hobbies** - Coding, Reading, Swimming 
+- 💬 **Language** - C, C++, JAVA, Python
+- 🥅 **FrameWork & Technology** - SpringBoot, Jupyter Notebook, MySQL, MongoDB, DynamoDB, Lambda( AWS ), Git
+- ⚡ **Hobbies** - Coding, Reading, Swimming, Acting
 - 📕 **Curriculum Subjects** - DBMS, OS, SEPM, Theory of Computation, HCI, FDS, PSOOP, COA, DSF
 
 
