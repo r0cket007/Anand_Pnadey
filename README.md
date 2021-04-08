@@ -7,9 +7,9 @@
 - 📕 **Curriculum Subjects** - DBMS, OS, SEPM, Theory of Computation, HCI, FDS, PSOOP, COA, DSF
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0cket007)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0cket007)
 
-  [![r0cket007's github stats](https://github-readme-stats.vercel.app/api?username=r0cket007&count_private=true&include_all_commits=true&theme=radical) ](https://google.com)
+[![r0cket007's github stats](https://github-readme-stats.vercel.app/api?username=r0cket007&count_private=true&include_all_commits=true&theme=radical) ](https://google.com)
 
 ## [**Resume**](https://drive.google.com/file/d/1pUXB0n6W34EppWSDlHNliovSEYRkgTSn/view?usp=sharing)
 ## Connect with me:
