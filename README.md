@@ -19,10 +19,10 @@
 <br />
 
 ## Connect with me:
+[<img align="left" alt="r0cket007 | StopStalk" width="30px" src="https://avatars1.githubusercontent.com/u/14951079?s=400&v=4" />][StopStalk]
 [<img align="left" alt="r0cket007 | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="r0cket007 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="r0cket007 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="r0cket007 | StopStalk" width="30px" src="https://avatars1.githubusercontent.com/u/14951079?s=400&v=4" />][StopStalk]
 <br />
 <!-- This section you create this variables that are used above -->
 [Facebook]: https://www.facebook.com/profile.php?id=100022893410458
