@@ -16,6 +16,7 @@
 
 ## **Resume**
 [<img align="left" alt="codeSTACKr | Resume" width="30px" src="https://clipartart.com/images/cv-icon-clipart-4.jpg" />][Resume]
+<br />
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
