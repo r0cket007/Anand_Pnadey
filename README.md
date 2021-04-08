@@ -17,10 +17,9 @@
 ## [**Resume**](https://drive.google.com/file/d/1pUXB0n6W34EppWSDlHNliovSEYRkgTSn/view?usp=sharing)
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://www.bing.com/images/search?view=detailV2&ccid=XPIYvjvY&id=7EDA2CC2D002A6CF629C33F15335E5D91BBD2516&thid=OIP.XPIYvjvYwfHXWaEXAJgR9gAAAA&mediaurl=https%3a%2f%2favatars1.githubusercontent.com%2fu%2f14951079%3fs%3d400%26v%3d4&exph=400&expw=400&q=stopstalk&simid=608018544281152057&ck=5DDA394D7E9BD7D118175804A5AABF98&selectedIndex=5&FORM=IRPRST&ajaxhist=0" />][StopStalk]
-
+[<img align="left" alt="codeSTACKr | StopStalk" width="30px" src="https://avatars1.githubusercontent.com/u/14951079?s=400&v=4" />][StopStalk]
 <br />
 <!-- This section you create this variables that are used above -->
 [Facebook]: https://www.facebook.com/profile.php?id=100022893410458
