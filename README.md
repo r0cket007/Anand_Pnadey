@@ -19,8 +19,11 @@
 [<img align="left" alt="codeSTACKr.com" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://www.bing.com/images/search?view=detailV2&ccid=XPIYvjvY&id=7EDA2CC2D002A6CF629C33F15335E5D91BBD2516&thid=OIP.XPIYvjvYwfHXWaEXAJgR9gAAAA&mediaurl=https%3a%2f%2favatars1.githubusercontent.com%2fu%2f14951079%3fs%3d400%26v%3d4&exph=400&expw=400&q=stopstalk&simid=608018544281152057&ck=5DDA394D7E9BD7D118175804A5AABF98&selectedIndex=5&FORM=IRPRST&ajaxhist=0" />][StopStalk]
+
 <br />
 <!-- This section you create this variables that are used above -->
 [Facebook]: https://www.facebook.com/profile.php?id=100022893410458
 [Instagram]: https://www.instagram.com/r0cket007_/
 [linkedin]: https://www.linkedin.com/in/r0cket007/
+[StopStalk]: https://www.stopstalk.com/user/profile/r0cket007
