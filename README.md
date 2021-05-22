@@ -1,6 +1,6 @@
 ### Hi, I'm Anand Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Little About Myself👽
-- 🌱 **I’m currently learning** - SpringBoot, RESTfull API
+- 🌱 **I’m currently learning** - Bash SCripting, CAssandra, GOlang
 - 💬 **Language** - C, C++, JAVA, Python
 - 🥅 **FrameWork & Technology** - SpringBoot, Jupyter Notebook, MySQL, MongoDB, DynamoDB, Lambda( AWS ), Git
 - ⚡ **Hobbies** - Coding, Reading, Swimming, Acting
