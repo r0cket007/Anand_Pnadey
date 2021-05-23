@@ -2,9 +2,9 @@
 ## Little About Myself👽
 - 🌱 **I’m currently learning** - Bash Scripting, Cassandra, Golang
 - 💬 **Language** - C, C++, JAVA, Python
-- 🥅 **FrameWork & Technology** - SpringBoot, Jupyter Notebook, MySQL, MongoDB, DynamoDB, Lambda( AWS ), Git
-- ⚡ **Hobbies** - Coding, Reading, Swimming, Acting
-- 📕 **Curriculum Subjects** - DBMS, OS, SEPM, Theory of Computation, HCI, FDS, PSOOP, COA, DSF
+- 🥅 **FrameWork & Technology** - SpringBoot, Jupyter Notebook, MySQL, MongoDB, DynamoDB, Lambda( AWS ), Git, RestAPIs
+- ⚡ **Hobbies** - Coding, Reading, Swimming, Acting, Teaching
+- 📕 **Curriculum Subjects** - DBMS, OS, SEPM, TOC, HCI, FDS, PSOOP, COA, DSF
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0cket007&label=Profile%20views&color=0e75b6&style=flat" alt="r0cket007" /> </p>
