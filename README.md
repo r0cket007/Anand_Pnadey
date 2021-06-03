@@ -15,7 +15,7 @@
 [![r0cket007's github stats](https://github-readme-stats.vercel.app/api?username=r0cket007&count_private=true&include_all_commits=true&theme=radical) ](https://google.com)
 
 ## **Resume**
-[<img align="left" alt="r0cket007 | Resume" width="30px" src="https://cdn4.iconfinder.com/data/icons/education-glyphs-vol-3/52/resume__profile__document__job__CV__interview__career-512.png" />][Resume]
+[<img align="left" alt="r0cket007 | Resume" width="30px" src="https://drive.google.com/file/d/1u7RO7udjI-3slZMCHcjGwCpdVTifgkT3/view?usp=sharing" />][Resume]
 <br />
 
 ## Connect with me:
