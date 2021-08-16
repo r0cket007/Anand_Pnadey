@@ -1,7 +1,7 @@
 ### Hi, I'm Anand Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Little About Myself👽
-- 🌱 **I’m currently learning** - Bash Scripting, Cassandra, Golang
-- 💬 **Language** - C, C++, JAVA, Python
+- 🌱 **Experience** - ConnectWise(Ex-SWE Intern) 
+- 💬 **Language** - C, C++, JAVA, Python, Golang
 - 🥅 **FrameWork & Technology** - SpringBoot, Jupyter Notebook, MySQL, MongoDB, DynamoDB, Lambda( AWS ), Git, RestAPIs
 - ⚡ **Hobbies** - Coding, Reading, Swimming, Acting, Teaching
 - 📕 **Curriculum Subjects** - DBMS, OS, SEPM, TOC, HCI, FDS, PSOOP, COA, DSF
