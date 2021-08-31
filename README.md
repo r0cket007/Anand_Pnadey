@@ -29,4 +29,4 @@
 [Instagram]: https://www.instagram.com/r0cket007_/
 [linkedin]: https://www.linkedin.com/in/r0cket007/
 [StopStalk]: https://www.stopstalk.com/user/profile/r0cket007
-[Resume]: https://drive.google.com/file/d/1u7RO7udjI-3slZMCHcjGwCpdVTifgkT3/view?usp=sharing
+[Resume]: https://drive.google.com/file/d/1Skee37Mu3z6ry8MNJ4RBhYlBoqodNmsq/view?usp=sharing
