@@ -1,6 +1,6 @@
 ### Hi, I'm Anand Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## Little About Myself👽
-- 🌱 **Experience** - ConnectWise(Ex-SWE Intern) 
+- 🌱 **Experience** - SDE Intern - Mobikwik, Ex-Intern ConnectWise 
 - 💬 **Language** - C, C++, JAVA, Python, Golang
 - 🥅 **FrameWork & Technology** - SpringBoot, Jupyter Notebook, MySQL, MongoDB, DynamoDB, Lambda( AWS ), Git, RestAPIs
 - ⚡ **Hobbies** - Coding, Reading, Swimming, Acting, Teaching
